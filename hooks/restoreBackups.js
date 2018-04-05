@@ -37,7 +37,7 @@ var restoreBackups = (function(){
             "Entitlements-Debug.plist": "{projectName}/Entitlements-Debug.plist"
         },
         "android":{
-            "AndroidManifest.xml": "AndroidManifest.xml"
+            "AndroidManifest.xml": "app/src/main/AndroidManifest.xml"
         }
     };
 
